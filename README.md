@@ -1,4 +1,4 @@
-# 🔐 Proyecto Caso de Estudio – Cifrado Polimórfico
+# 🔐 Documento de Investigación – Cifrado Polimórfico
 
 Este proyecto implementa un *algoritmo de cifrado polimórfico de 64 bits* basado en el artículo “Cryptography model to secure IoT device endpoints, based on polymorphic cipher OTP”.  
 El objetivo es asegurar la comunicación entre dispositivos IoT mediante el uso de *claves dinámicas* y funciones reversibles de cifrado/descifrado.
